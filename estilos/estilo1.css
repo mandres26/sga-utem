@@ -1,0 +1,11 @@
+body { width:850px; margin-left:270px; text-align:justify; background-image: url(../imagenes/fondo-vaio.jpg)}
+.img{ border:0px; margin-left:10px; margin-top:7px;}
+.cuest{ border-bottom-style: outset; border:2px solid black; border-radius:20px; background-color:#FFF; width:800px; padding:10px; margin:15px; text-align:justify; font-size:14pt;}
+.ul{ border-bottom-style: outset; border:2px solid black; border-radius:20px; background-color:#FFF; height:120px; padding:10px; margin-bottom:15px;}
+ul li{list-style:none;}
+dt{ font-weight:bold}
+dd{ font-family:cursive}
+.lilado{ margin-left:500px;}
+ul li a{margin:3px; text-decoration:none;height:100%;width:100%;display:block}
+.bordecero{border:0px;width:51px;height:51px}
+
