@@ -1,0 +1,6 @@
+body{ background-color:#c4e4f8}
+.p1{ background-image:url(../imagenes/fondo_contenido.jpg); background-position:center;border-radius:20px; background-color:#FFF;width:620px;height:300px;padding:10px;font-size:14px;border-collapse:separate; border:2px solid black}
+.cuadrado td { width: 150px}
+th,td{border-color:Black;border-width:1px;border-style:solid;padding:10px;text-align:left;}
+.img{ border:0px; margin-left:50px; margin-top:7px;}
+
